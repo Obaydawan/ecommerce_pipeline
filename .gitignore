@@ -1,4 +1,6 @@
-
+venv/
+.streamlit/
+app/.streamlit/
 target/
 dbt_packages/
 logs/
