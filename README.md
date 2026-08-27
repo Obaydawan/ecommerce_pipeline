@@ -84,7 +84,7 @@ streamlit run app/streamlit_app.py
 
 I build this exact kind of pipeline — automated order/revenue reporting connected live to your store's data — for e-commerce businesses who are still stitching numbers together manually every month. If your order, payment, or inventory data lives across disconnected exports and spreadsheets, I can turn it into a tested, always-current dashboard like this one.
 
-**Get in touch:** [ADD YOUR FIVERR/UPWORK/CONTACT LINK HERE]
+**Get in touch:** [fiverr.com/obaydawan](https://www.fiverr.com/obaydawan)
 
 ---
 
