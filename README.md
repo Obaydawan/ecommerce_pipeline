@@ -1,15 +1,13 @@
-Welcome to your new dbt project!
+# Automated E-Commerce Order & Revenue Pipeline
 
-### Using the starter project
+An end-to-end data pipeline built for the Olist e-commerce dataset, transforming raw transactional data into actionable financial metrics and automated visual intelligence.
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Architecture
+Raw CSVs (Olist) ──► Snowflake (Data Warehouse) ──► dbt (Staging & Mart Transformations) ──► Streamlit (Live Analytics Dashboard)
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Tech Stack
+- **Cloud Data Warehouse:** Snowflake
+- **Transformation & Testing:** dbt (Data Build Tool)
+- **Visualization App:** Streamlit & Pandas
+- **Version Control:** Git & GitHub
