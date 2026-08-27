@@ -2,7 +2,7 @@
 
 A production-style data pipeline that turns raw, multi-file e-commerce order data into a live, automatically-refreshable revenue dashboard — built on a modern cloud data stack (Snowflake + dbt) rather than a one-off notebook or spreadsheet.
 
-**Live dashboard:** [ADD YOUR STREAMLIT CLOUD URL HERE]
+**Live dashboard:** https://e-commercepipeline.streamlit.app/
 
 ---
 
