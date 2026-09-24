@@ -1,4 +1,4 @@
-# Automated E-Commerce Order & Revenue Pipeline:
+# Automated E-Commerce Order & Revenue Pipeline
 
 A production-style data pipeline that turns raw, multi-file e-commerce order data into a live, automatically-refreshable revenue dashboard — built on a modern cloud data stack (Snowflake + dbt) rather than a one-off notebook or spreadsheet.
 
